@@ -1,55 +1,24 @@
-# 👋 Hola, soy Nicolás
+### 👋 ¡Hola! Soy Nico
 
-💻 Desarrollador Full Stack con experiencia en sistemas reales en producción.  
-Trabajo con React, Node.js y MySQL, desarrollando aplicaciones de punta a punta e integrando soluciones en entornos Linux.
+Estudiante de Ingeniería en Informática (UNL) y desarrollador con experiencia en sistemas reales: durante un año y medio trabajé en el área de Informática de un hospital público, donde construí y mantuve aplicaciones que el personal usa todos los días.
 
----
+Me interesa especialmente el desarrollo web, pero disfruto meterme en todo lo que hay alrededor: bases de datos, servidores, redes y despliegue.
 
-## 🚀 Sobre mí
+#### 🚀 Qué vas a encontrar acá
 
-Actualmente me desempeño en el área de informática de un hospital, donde desarrollo y mantengo sistemas internos utilizados por distintas áreas.
+Este perfil es un lugar para mostrar proyectos y cosas que fui aprendiendo. Trato de que cada repo tenga algo más que código: documentación, decisiones técnicas y una explicación de cómo funciona.
 
-Tengo experiencia en:
-- Desarrollo de aplicaciones web completas (frontend + backend)
-- Diseño y modelado de bases de datos
-- Implementación y mantenimiento en servidores Linux
-- Resolución de problemas en entornos reales de producción
+Algunos son proyectos personales/académicos, y otros están basados en sistemas reales del hospital, adaptados para poder compartirlos públicamente (sin datos ni información sensible).
 
-Me interesa el desarrollo de software en su totalidad, desde la idea hasta su funcionamiento en producción.
+**En camino:** voy a ir subiendo más — versiones adaptadas y algunos proyectos personales.
 
----
+#### 🛠️ Con qué trabajo
 
-## 🛠️ Tecnologías
+- **Frontend:** React, JavaScript
+- **Backend:** Node.js, Express
+- **Bases de datos:** MySQL, PostgreSQL
+- **Infra/Deploy:** Linux, Nginx, PM2, Proxmox
+- **Otros:** Git
 
-**Frontend**
-- React
-- JavaScript (Vanilla)
-
-**Backend**
-- Node.js
-- Express
-
-**Base de datos**
-- MySQL
-
-**Infraestructura**
-- Linux (Debian)
-- Nginx
-- PM2
-- Proxmox
-
----
-
-## 📌 Proyectos destacados
-
-👉 Próximamente voy a estar subiendo proyectos basados en sistemas reales en los que trabajé:
-- Sistema de formularios dinámicos (RRHH)
-- Turnero optimizado para dispositivos de baja capacidad (Smart TVs)
-- Configuración de servidores y despliegue con Nginx + PM2
-
----
-
-## 📫 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/nico-luna/
+📫 [LinkedIn](https://www.linkedin.com/in/nico-luna/)
 
