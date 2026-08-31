@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Nico
 
-Estudiante de Ingeniería en Informática (UNL) y desarrollador con experiencia en sistemas reales: durante un año y medio trabajé en el área de Informática de un hospital público, donde construí y mantuve aplicaciones que el personal usa todos los días.
+Estudiante avanzado de Ingeniería en Informática (UNL) y desarrollador con experiencia en sistemas reales: durante un año y medio trabajé en el área de Informática de un hospital público, donde construí y mantuve aplicaciones que el personal usa todos los días.
 
 Me interesa especialmente el desarrollo web, pero disfruto meterme en todo lo que hay alrededor: bases de datos, servidores, redes y despliegue.
 
@@ -16,7 +16,7 @@ Algunos son proyectos personales/académicos, y otros están basados en sistemas
 
 - **Frontend:** React, JavaScript
 - **Backend:** Node.js, Express
-- **Bases de datos:** MySQL, PostgreSQL
+- **Bases de datos:** MySQL
 - **Infra/Deploy:** Linux, Nginx, PM2, Proxmox
 - **Otros:** Git
 
